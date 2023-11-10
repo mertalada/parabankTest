@@ -18,8 +18,9 @@ Features :
     
 Collabarators:                                                  
 
-Can Keskin                                                          
-Seda Parça                                                  
-Erdem Önder                                                  
-Muhammet Musab Çelik                                                        
-Mehmet Fatih Polat                                                                                                                                               
+Mert Aladağ ( Team Lead )
+Can Keskin  ( Developer )                                                        
+Seda Parça  ( Developer )                                                
+Erdem Önder ( Developer )                                                 
+Muhammet Musab Çelik  ( Developer )                                                       
+Mehmet Fatih Polat   ( Developer )                                                                                                                                            
