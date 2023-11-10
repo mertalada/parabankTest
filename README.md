@@ -18,9 +18,9 @@ Features :
     
 Collabarators:                                                  
 
-Mert Aladağ ( Team Lead )
-Can Keskin  ( Developer )                                                        
-Seda Parça  ( Developer )                                                
-Erdem Önder ( Developer )                                                 
-Muhammet Musab Çelik  ( Developer )                                                       
-Mehmet Fatih Polat   ( Developer )                                                                                                                                            
+Mert Aladağ ( Team Lead )																							
+Can Keskin  ( Developer )     									                                                   
+Seda Parça  ( Developer )        								                                        
+Erdem Önder ( Developer )               						                                  
+Muhammet Musab Çelik  ( Developer )              				                                         
+Mehmet Fatih Polat   ( Developer )              						                                                                                                                
