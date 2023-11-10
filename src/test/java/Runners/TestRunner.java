@@ -5,7 +5,6 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-// aşağıdaki bütün testlerden @SmokeTest tag i olanları çalıştır. Tag kısmını kaldırdığımızda hepsi çalışır.
         tags = "@Smoke",
         features = {"src/test/java/FeatureFiles"},
         glue={"StepDefinitions"},
