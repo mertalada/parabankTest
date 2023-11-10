@@ -1,15 +1,12 @@
-                                          parabank.parasoft.com Cucumber Project
-Code was written using testng and cucumber in this Project
+PARABANK PROJECT
+					  
+Our project utilizes the following technologies:
 
-Collabarators:                                      
+Java Core: We use Java as the primary programming language.
+Selenium: For web automation and testing purposes.
+Cucumber: Cucumber is our preferred test management framework. We've added features and tools to make online shopping work smoothly for customers and make it easier for people to contribute to the project.
 
-Can Keskin                                                          
-Seda Parça                                                  
-Erdem Önder                                                  
-Muhammet Musab Çelik                                                        
-Mehmet Fatih Polat                                                                  
-
-User Storys:                                
+Features :                               
 
 1- Open a new user account (register)                                                                                            
 2- User login                                                                
@@ -17,4 +14,12 @@ User Storys:
 4- Opening a "New Bank Account"                                                                                                  
 5- Bank Account Overview                                                                                                
 6- Money transfer between my accounts                                                                            
-7- Update contact information                                                                                  
+7- Update contact information     
+    
+Collabarators:                                                  
+
+Can Keskin                                                          
+Seda Parça                                                  
+Erdem Önder                                                  
+Muhammet Musab Çelik                                                        
+Mehmet Fatih Polat                                                                                                                                               
